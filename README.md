@@ -75,6 +75,9 @@ python recomendacao_filmes.py
 Recomendações colaborativas: ['Star Wars', 'Jurassic Park', 'The Matrix', 'Titanic', 'The Lion King']
 Recomendações híbridas: ['The Godfather', 'Pulp Fiction', 'Schindler's List', 'Forrest Gump', 'Inception']
 ```
+### Demonstração do Sistema
+![Vídeo](imgs/video.gif)
+
 ## Referências
 - [MovieLens Dataset](https://grouplens.org/datasets/movielens/)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
